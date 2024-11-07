@@ -1,0 +1,32 @@
+week 1 html
+week 1 css
+week 1.2 --> javascript
+        There's a background process in the JavaScript engine that is called garbage collector. 
+        It monitors all objects and removes those that have become unreachable
+
+
+Week 2:	javascript:
+	Asynchronous Java
+	
+	Functional Argument:
+			passing a function in a function as an argument
+			argument: it is a value which is passed when an function is called
+				ex: suppose you've made a sum function which take sum(a, b);
+					now when you'll call the function as consol.log(sum(9,2)); here 9,2 are arguments!!!
+
+	
+	setTimeout(function, time): it is used to call the function after a set period of time.
+
+
+week 3: DOM
+		fetch, create, update and delete commands
+		ex: innerHTML, value, createElement, setAttribute, 
+		queryselector, getElementById, queryselectorAll
+
+		created a dynamic To-Do website which adds and deletes todo respnsively
+
+		advance/complex DOM
+
+		State , component and render fn 
+
+week 4: Js runtime, npm, package.json
